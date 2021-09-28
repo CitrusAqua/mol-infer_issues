@@ -50,9 +50,9 @@ Tested with the following commands:
 
 # Cyclic
 
-1. Documentation for all 4 modules are in a single file (`Manual_Cyclic_en.pdf`). Should we separate it into different files?
+Documentation for all 4 modules are in a single file (`Manual_Cyclic_en.pdf`). Should we separate it into different files?
 
-2. `.DS_Store` files should be removed. (Use gitignore).
+`.DS_Store` files should be removed. (Use gitignore).
 
 ### Module 1 <span style="color: green;">Pass</span>
 
